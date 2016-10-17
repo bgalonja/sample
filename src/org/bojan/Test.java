@@ -3,7 +3,7 @@ package org.bojan;
 public class Test {
 	
 	public void write(){
-		System.out.println("Test!");
+		System.out.println("Test! New message");
 	}
 	
 }
